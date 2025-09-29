@@ -4,7 +4,7 @@ A Python-based navigation tool for the London Underground. This project allows u
 
 <br>
 
-## Project Overview
+## 📖 Overview
 
 This project is a standalone Python application for modelling and analysing the London Underground Network. Users can:
 - Find shortest paths between stations (by travel time or number of stops).
@@ -15,7 +15,7 @@ The project uses custom libraries that are built with the guidelines from the bo
 
 <br>
 
-## Structure
+## 📂 Structure
 
 ```Main.py``` is the main file which executed the algorithms to solve the given tasks:
 1. Implement a route planner that finds the shortest journey time (in minutes) between two stations.
@@ -29,7 +29,7 @@ The ```London Underground data.csv``` file provide the station, station-pairs, d
 
 <br>
 
-## Findings
+## 📊 Findings
 
 <img width="100%" alt="Frequency of Routes by their Lenth in min" title="Frequency of Routes by their Lenth in min" src="https://github.com/user-attachments/assets/4db49f3d-cd86-4e2b-9e38-3770d2dcbc7f"/>
 
@@ -56,7 +56,7 @@ The ```London Underground data.csv``` file provide the station, station-pairs, d
 <br>
 
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository
 ```
@@ -86,7 +86,7 @@ python main.py
 ```
 <br>
 
-## Contributing
+## 🤝 Contributing
 If you see something that doesn't look right, speak to staff ([Arslonbek Ishanov](https://github.com/Arslan2003)), open an issue or submit a pull request. We will sort it. See it. Say it. Sorted.  
 
 <br>
@@ -99,12 +99,15 @@ Here are a few areas that can be improved:
 
 <br>
 
-## Author
+## 🧑‍💻 Author
 [Arslonbek Ishanov](https://github.com/Arslan2003) - First-Class Graduate Data Scientist & AI/ML Enthusiast.
 
 <br>
 
-## License
+## ⚖️ License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <br>
+
+## Tags
+
