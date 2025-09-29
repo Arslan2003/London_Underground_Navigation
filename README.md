@@ -60,8 +60,8 @@ The ```London Underground data.csv``` file provide the station, station-pairs, d
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/london-underground-navigation.git
-cd london-underground-navigation
+git clone https://github.com/Arslan2003/London_Underground_Navigation.git
+cd London_Underground_Navigation
 ```
 
 2. Create a virtual environment (optional but recommended)
@@ -82,7 +82,7 @@ Make sure the custom Python modules provided are in the same directory as ```mai
 
 5. Run the main program
 ```
-python main.py
+python Main.py
 ```
 <br>
 
