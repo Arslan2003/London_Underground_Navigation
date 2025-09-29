@@ -109,5 +109,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <br>
 
-## Tags
+## 🏷️ Tags
+
+`Python` `Graph-Algorithms` `Data-Structures` `Algorithms` `Transportation` `Simulation` `Visualisation` `Network-Analysis ` `London`
 
