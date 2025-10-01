@@ -1,3 +1,6 @@
+
+<img width="100%" alt="London Underground Banner" src="https://github.com/user-attachments/assets/8802dc8d-4071-4e92-8c33-2fb4570e7134" />
+
 # London Underground Navigation
 
 A Python-based navigation tool for the London Underground. This project allows users to find the shortest routes between stations, analyse route distributions, and simulate line or edge closures while maintaining network accessibility.
